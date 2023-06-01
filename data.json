@@ -1,0 +1,54 @@
+{
+    "infinix": [
+        {
+            "Name": "hot 12",
+            "price": 14000,
+            "img": "img/hot 12.png"
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        }
+    ],
+    "iphone": [
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        }
+    ],
+    "samsung": [
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        },
+        {
+            "Name": "",
+            "price": 122,
+            "img": ""
+        }
+    ]
+    
+}
